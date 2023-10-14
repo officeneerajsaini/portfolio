@@ -23,9 +23,28 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.sectionGradient{
+  background-image: linear-gradient(135deg , rgb(128, 30, 198) 20%, #C850C0 45%,#E25E3E 80%  ,#E74646 90%);
+}
+/* .sectionGradient{
+  background-image: linear-gradient(135deg , rgb(85, 16, 135) 0%, #C850C0 50%, #A5C9CA 80% , #C850C0 100%);
+} */
+.bg-gradient-animation{
+  background-image: linear-gradient(135deg , rgb(128, 30, 198) 20%, #C850C0 40%,#E25E3E 60%  ,#E74646 80%, rgb(159, 58, 232)95%);
+  animation:gradientAnimation 7s linear infinite;
+  background-size: 200% 200%;
+}
 
-.App-link {
-  color: #61dafb;
+.projectGradient{
+  background-image: linear-gradient(135deg , rgb(128, 30, 198) 20%, #C850C0 45%,#E25E3E 80%  ,#E74646 90%);
+}
+
+.aboutPeraGradient{
+  background-image: linear-gradient(135deg , rgb(128, 30, 198) 20%, #C850C0 45%,#E25E3E 80%  ,#E74646 90%);
+}
+
+:hover .nav-link {
+  color: blueviolet;
 }
 
 @keyframes App-logo-spin {
@@ -34,5 +53,13 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+@keyframes gradientAnimation{
+  0%{
+     background-position: 0% 0%;
+  }
+  100%{
+     background-position: 100% 100%;
   }
 }

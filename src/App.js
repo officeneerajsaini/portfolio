@@ -1,7 +1,6 @@
 import React from "react";
 import './App.css';
 import "react-bootstrap";
-import hexagon from "./photos/hexagon-icon.svg";
 import NAVBAR from "./components/navbar";
 import HOMEPAGE from "./components/Homepage";
 import ABOUTME from "./components/Aboutme";
@@ -15,10 +14,11 @@ import CONTACTME from "./components/Contactme";
 function App() {
   return (
     <div>
-      <section className="text-gradient bg-gradient-to-r from-red-500 to-blue-500">
+     
+      {/* <section className="text-gradient bg-gradient-to-r from-red-500 to-blue-500"></section> */}
+      {/* bg-gradient-to-br from-red-500 via-indigo to-blue-500 */}
         <NAVBAR />
         <HOMEPAGE />
-      </section>
       <section>
         <ABOUTME />
         <CARTIFICATE />
