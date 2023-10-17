@@ -1,7 +1,0 @@
-title: My Jekyll Website
-baseurl: /
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-# Additional settings...
