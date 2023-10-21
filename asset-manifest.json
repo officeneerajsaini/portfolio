@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ee630283.css",
-    "main.js": "/portfolio/static/js/main.8afb0245.js",
+    "main.css": "/portfolio/static/css/main.49c9787d.css",
+    "main.js": "/portfolio/static/js/main.633bb238.js",
     "static/js/27.6a22ccc7.chunk.js": "/portfolio/static/js/27.6a22ccc7.chunk.js",
     "static/media/myProfile.jpg": "/portfolio/static/media/myProfile.0662d3cdacc579c6dc4c.jpg",
     "static/media/meta_python.jpg": "/portfolio/static/media/meta_python.fa19c683d0c7c58c7dc3.jpg",
@@ -12,6 +12,7 @@
     "static/media/DrumkitWebsite.png": "/portfolio/static/media/DrumkitWebsite.34562e8cf6881a172e7f.png",
     "static/media/keeper.png": "/portfolio/static/media/keeper.75ad17890bbbd6a616cf.png",
     "static/media/nodejs.svg": "/portfolio/static/media/nodejs.54c94a2a6ee4a853c61b210e8a3571e4.svg",
+    "static/media/sass.svg": "/portfolio/static/media/sass.e474d03b30304904fdbd747b9eebc349.svg",
     "static/media/jquery.svg": "/portfolio/static/media/jquery.b47a45ba1568363c28c89ecd817e117c.svg",
     "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.be1374fa69223d3bb6c2bc7ba6022323.svg",
     "static/media/react-dark.svg": "/portfolio/static/media/react-dark.9159dbc7c8dbfe8391fa8745dc79332a.svg",
@@ -27,7 +28,7 @@
     "static/media/api.svg": "/portfolio/static/media/api.a4b105b13f17fc8029aec36fb161a823.svg"
   },
   "entrypoints": [
-    "static/css/main.ee630283.css",
-    "static/js/main.8afb0245.js"
+    "static/css/main.49c9787d.css",
+    "static/js/main.633bb238.js"
   ]
 }
