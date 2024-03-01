@@ -16,7 +16,7 @@ import figmaIcon from "../photos/figma-light.svg";
 function aboutMe() {
     return <div className="mt-40" id="aboutPage">
         <h2 className="text-center font-bold">About Me</h2>
-        <h4 className="text-center mt-12 font-bold">What technologies i Know ?</h4>
+        <h4 className="text-center mt-12 font-bold">What Technologies Do I Know ?</h4>
         <div className="mt-6">
             <div>
                 <div class="flex flex-nowrap justify-center" >
